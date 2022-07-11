@@ -1,4 +1,4 @@
-%Code developed by Aditya Natu%
+%Developed and tested by Aditya Natu%
 
 function [r] = Streakline(U,V,x1,x2,y1,y2,t1,t2,n)
 
