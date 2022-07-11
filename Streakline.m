@@ -1,3 +1,5 @@
+%Code developed by Aditya Natu%
+
 function [r] = Streakline(U,V,x1,x2,y1,y2,t1,t2,n)
 
 linspacep = @(a1,a2,N) (N==1)*((a1+a2)/2) +(N~=1)*linspace(a1,a2,N);
