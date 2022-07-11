@@ -1,4 +1,4 @@
-%Developed by Aditya Natu. Tested by Ankit Sharma.%
+%Developed and tested by Aditya Natu%
 
 function [r] = Pathline(U,V,x1,x2,y1,y2,t1,t2,n)
 
